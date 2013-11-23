@@ -1,0 +1,10 @@
+void carregarHistoria();
+void carregarMenu();
+void carregarPersonagem();
+void carregarTexto();
+void iniciarJogo();
+void iniciar();
+void carregarMapa();
+void carregarColisao();
+void moverChar();
+int fecharJogo();
