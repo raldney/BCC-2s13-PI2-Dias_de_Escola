@@ -1,6 +1,6 @@
 void moverChar()
 {
-    timer = al_create_timer(3/60.0);
+    timer = al_create_timer(7/60.0);
     al_register_event_source(eventosQueue, al_get_timer_event_source(timer));
     al_register_event_source(eventosQueue, al_get_keyboard_event_source());
     al_register_event_source(eventosQueue, al_get_display_event_source(Display));
@@ -103,6 +103,7 @@ void moverChar()
                     }
 
                 }
+
                 if (keys[UP])
                 {
                     if(tileMap[(y-32)/32][x/32]==0 && (y-8) <= 600)

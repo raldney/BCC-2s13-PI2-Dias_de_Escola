@@ -1,11 +1,8 @@
 void carregarMapa(int nMapa)
 {
-    printf("teste\n");
-    fundoDisplay = al_load_bitmap(imagemMapa[nMapa]);
-    al_draw_bitmap(fundoDisplay, 0, 0, 0);
     if (colisao != nMapa)
     {
-        printf("teste\n");
+        fundoDisplay = al_load_bitmap(imagemMapa[nMapa]);
         carregarColisao(nMapa);
         colisao = nMapa;
         switch (nMapa){
@@ -30,8 +27,10 @@ void carregarMapa(int nMapa)
             y = 64;
         break;
         }
+
         al_draw_bitmap(personagemCHAR[1],x,y,0);
     }
+    al_draw_bitmap(fundoDisplay, 0, 0, 0);
     al_flip_display();
 }
 void carregarColisao(int nMapa)
