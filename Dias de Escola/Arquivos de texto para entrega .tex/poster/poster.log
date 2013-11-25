@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.27)  23 NOV 2013 20:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.27)  24 NOV 2013 23:20
 entering extended mode
 **poster.tex
-("J:\2째 Semestre\Projeto Interativo 2\poster\poster.tex"
+
+("C:\Users\jenny.Home-Jenny\Desktop\BCC-2s13-PI2-Dias_de_Escola-master\BCC-2s13-PI2-Dias_de_Escola\Dias de Escola\Arquiv
+os de texto para entrega .tex\poster\poster.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -10,7 +12,9 @@ ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, 
 -x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
 ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
 elsh, loaded.
-("J:\2째 Semestre\Projeto Interativo 2\poster\sciposter.cls"
+
+("C:\Users\jenny.Home-Jenny\Desktop\BCC-2s13-PI2-Dias_de_Escola-master\BCC-2s13-PI2-Dias_de_Escola\Dias de Escola\Arquiv
+os de texto para entrega .tex\poster\sciposter.cls"
 Document Class: sciposter 2006/05/30 v1.17 scientific poster class (MHFW, AMW)
 ("C:\Program Files (x86)\Miktex\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -520,7 +524,8 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 \c@Def=\count123
 
-("J:\2째 Semestre\Projeto Interativo 2\poster\poster.aux")
+("C:\Users\jenny.Home-Jenny\Desktop\BCC-2s13-PI2-Dias_de_Escola-master\BCC-2s13-PI2-Dias_de_Escola\Dias de Escola\Arquiv
+os de texto para entrega .tex\poster\poster.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
@@ -730,25 +735,33 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 179.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <J:/2째 Semestre/Projeto Interativo 2/poster/Ecomp-logo.jpg> <J:/2�
-� Semestre/Projeto Interativo 2/poster/Senac-logo.jpg> <J:/2째 Semestre/Projeto Interativo 2/poster/rpg.png> <J:/2째 Sem
-estre/Projeto Interativo 2/poster/personagens.png> <J:/2째 Semestre/Projeto Interativo 2/poster/hist.png> <J:/2째 Semest
-re/Projeto Interativo 2/poster/colisao.png> <J:/2째 Semestre/Projeto Interativo 2/poster/menu.png>]
-("J:\2째 Semestre\Projeto Interativo 2\poster\poster.aux") ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/jenny.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Escola-mast
+er/BCC-2s13-PI2-Dias_de_Escola/Dias de Escola/Arquivos de texto para entrega .tex/poster/Ecomp-logo.jpg> <C:/Users/jenny
+.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Escola-master/BCC-2s13-PI2-Dias_de_Escola/Dias de Escola/Arquivos de texto para
+ entrega .tex/poster/Senac-logo.jpg> <C:/Users/jenny.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Escola-master/BCC-2s13-PI2-
+Dias_de_Escola/Dias de Escola/Arquivos de texto para entrega .tex/poster/rpg.png> <C:/Users/jenny.Home-Jenny/Desktop/BCC
+-2s13-PI2-Dias_de_Escola-master/BCC-2s13-PI2-Dias_de_Escola/Dias de Escola/Arquivos de texto para entrega .tex/poster/pe
+rsonagens.png> <C:/Users/jenny.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Escola-master/BCC-2s13-PI2-Dias_de_Escola/Dias de
+ Escola/Arquivos de texto para entrega .tex/poster/hist.png> <C:/Users/jenny.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Esc
+ola-master/BCC-2s13-PI2-Dias_de_Escola/Dias de Escola/Arquivos de texto para entrega .tex/poster/colisao.png> <C:/Users/
+jenny.Home-Jenny/Desktop/BCC-2s13-PI2-Dias_de_Escola-master/BCC-2s13-PI2-Dias_de_Escola/Dias de Escola/Arquivos de texto
+ para entrega .tex/poster/menu.png>]
+("C:\Users\jenny.Home-Jenny\Desktop\BCC-2s13-PI2-Dias_de_Escola-master\BCC-2s13-PI2-Dias_de_Escola\Dias de Escola\Arquiv
+os de texto para entrega .tex\poster\poster.aux") ) 
 Here is how much of TeX's memory you used:
  5097 strings out of 493921
- 67490 string characters out of 3146447
- 274897 words of memory out of 3000000
+ 68489 string characters out of 3146447
+ 273949 words of memory out of 3000000
  8288 multiletter control sequences out of 15000+200000
  29177 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  30i,8n,32p,691b,1328s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/Miktex/fonts/enc/dvips/fontname/8r.e
-nc}<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/Miktex/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/M
-iktex/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/Miktex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program
- Files (x86)/Miktex/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on poster.pdf (1 page, 2459347 bytes).
+{C:/Program Files (x86)/Miktex/fonts/enc/dvips/fontname/8r.enc}<C:/Pr
+ogram Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/Miktex/fon
+ts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/Miktex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x
+86)/Miktex/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on poster.pdf (1 page, 2459315 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
