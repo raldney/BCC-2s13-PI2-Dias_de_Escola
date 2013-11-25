@@ -1,0 +1,17 @@
+void carregarHistoria();
+void carregarMenu();
+void carregarPersonagem();
+void carregarTexto();
+void iniciarJogo();
+void iniciar();
+void carregarMapa();
+void carregarColisao();
+void moverChar();
+int fecharJogo();
+void lerResposta();
+void mostrarResposta();
+void questaoCelula();
+void questaoCadeia();
+void questaoBola();
+void questaoTabela();
+void questaoFotossintese();
