@@ -1,6 +1,6 @@
 CXX=g++
 CFLAGS=
-LDFLAGS=-L/usr/lib -lallegro -lallegro_image
+LDFLAGS=-L/usr/lib -lallegro -lallegro_image -lallegro_font -lallegro_ttf
 INCLUDE=-I. -I/usr/include/allegro5 -I/usr/include/allegro_image
 
 OBJS=SchoolDays.o
