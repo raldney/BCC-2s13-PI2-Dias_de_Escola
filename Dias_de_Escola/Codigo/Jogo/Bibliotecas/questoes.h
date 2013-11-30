@@ -312,7 +312,7 @@ void questaoEstado()
                         {
                             concluido = true;
                             responder = true;
-                            tabela = true;
+                            estado = true;
                             fundoDisplay = al_load_bitmap("Imagens/Questoes/acerto.bmp");
                             al_draw_bitmap(fundoDisplay,0,0,0);
                             strcpy(resposta, "");
@@ -379,7 +379,7 @@ void questaoCircuito()
                         {
                              concluido = true;
                              responder = true;
-                             tabela = true;
+                             circuito = true;
                              fundoDisplay = al_load_bitmap("Imagens/Questoes/acerto.bmp");
                              al_draw_bitmap(fundoDisplay,0,0,0);
                              strcpy(resposta, "");
@@ -442,7 +442,7 @@ void questaoPiramide()
                         {
                             concluido = true;
                             responder = true;
-                            fotossintese=true;
+                            piramide=true;
                             fundoDisplay = al_load_bitmap("Imagens/Questoes/acerto.bmp");
                             al_draw_bitmap(fundoDisplay,0,0,0);
                             strcpy(resposta, "");

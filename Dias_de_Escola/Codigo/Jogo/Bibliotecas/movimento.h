@@ -99,33 +99,75 @@ void moverChar()
                             }
                     if(x==192 && y ==248)
                         if (!bola)
+                        {
                             questaoBola();
-
+                            carregarMapa(mapa);
+                            al_draw_bitmap(personagemCHAR[1],x,y,0);
+                            al_flip_display();
+                        }
                     if(x==768 && y ==248)
                         if (!tabela)
+                        {
                             questaoTabela();
-
+                            carregarMapa(mapa);
+                            al_draw_bitmap(personagemCHAR[1],x,y,0);
+                            al_flip_display();
+                        }
                     if(x==768 && y ==328)
                         if (!cadeia)
+                        {
                             questaoCadeia();
+                            carregarMapa(mapa);
+                            al_draw_bitmap(personagemCHAR[1],x,y,0);
+                            al_flip_display();
+                        }
                 }
         if(mapa==3)
         {
            if(x == 480  && y == 192)
+           {
+                if(!fotossintese)
+                {
                 questaoFotossintese();
-
+                carregarMapa(mapa);
+                al_draw_bitmap(personagemCHAR[1],x,y,0);
+                al_flip_display();
+                }
+            }
            if(x == 240 && y == 208)
+           {
+                if(!estado)
+                {
                 questaoEstado();
-
+                carregarMapa(mapa);
+                al_draw_bitmap(personagemCHAR[1],x,y,0);
+                al_flip_display();
+                }
+           }
            if(x == 0 && y == 488)
+           {
+                if(!circuito)
+                {
                 questaoCircuito();
-
+                carregarMapa(mapa);
+                al_draw_bitmap(personagemCHAR[1],x,y,0);
+                al_flip_display();
+                }
+            }
         }
 
         if(mapa == 4)
         {
             if(x == 744 && y == 288)
-               questaoPiramide();
+            {
+                if(!piramide)
+                {
+                questaoPiramide();
+                carregarMapa(mapa);
+                al_draw_bitmap(personagemCHAR[1],x,y,0);
+                al_flip_display();
+                }
+            }
         }
 
 

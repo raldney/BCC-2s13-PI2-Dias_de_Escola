@@ -9,7 +9,7 @@ FILE *fMapa;
 
 const int LARGURA_TELA = 800;
 const int ALTURA_TELA = 602;
-bool telaLivro = false,sair = false,celula = false,tabela=false,cadeia=false,bola=false,fotossintese=false,escolha = false,concluido = false,responder=false, keys[]={false,false,false,false,false};
+bool telaLivro = false,sair = false,circuito = false,piramide=false,estado=false,celula = false,tabela=false,cadeia=false,bola=false,fotossintese=false,escolha = false,concluido = false,responder=false, keys[]={false,false,false,false,false};
 char sexo = 'c', lerMapa,resposta[17];
 int matX=145,matY=180,livro = 0,iniciarOption = 1,sairOption= 0,continuarOption= 0,peterOption=1,sabrinaOption=0,sairClick=0,x = 64,y = 64,i,j,mapa = -1,colisao=-1,top=0,down=0,right=0,left=0;
 enum KEYS{UP,DOWN,RIGHT,LEFT,SELECT};
